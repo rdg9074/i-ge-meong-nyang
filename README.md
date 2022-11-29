@@ -67,8 +67,8 @@
 ```
 
 <br>
-![메인](https://user-images.githubusercontent.com/97574675/194446788-321e17bf-f585-4cbe-b6a3-170f63b979aa.gif)
-![메인2](https://user-images.githubusercontent.com/97574675/194446798-c2050f83-342c-4f9d-aa5b-98addc466ab1.gif)
+<img src="https://user-images.githubusercontent.com/97574675/194446788-321e17bf-f585-4cbe-b6a3-170f63b979aa.gif" width="550" height="400"/>
+<img src="https://user-images.githubusercontent.com/97574675/194446798-c2050f83-342c-4f9d-aa5b-98addc466ab1.gif" width="550" height="400"/>
 
 ### **진단하기페이지**
 
@@ -77,7 +77,7 @@
 ```
 
 <br>
-![진단하기](https://user-images.githubusercontent.com/97574675/194446920-753920af-5143-4258-8dfd-207fd8f0cc93.gif)
+<img src="https://user-images.githubusercontent.com/97574675/194446920-753920af-5143-4258-8dfd-207fd8f0cc93.gif" width="550" height="400"/>
 
 ### **커뮤니티페이지(자랑하기)**
 
@@ -86,8 +86,9 @@
 ```
 
 <br>
-![커뮤 1](https://user-images.githubusercontent.com/97574675/194447008-2a86b0cb-8357-4c83-82e1-e2593650d49d.gif)
-![커뮤 2](https://user-images.githubusercontent.com/97574675/194447019-dbd85bfd-7160-43cd-b225-e8ccf7e4882b.gif)
+<img src="https://user-images.githubusercontent.com/97574675/194447008-2a86b0cb-8357-4c83-82e1-e2593650d49d.gif" width="550" height="400"/>
+<img src="https://user-images.githubusercontent.com/97574675/194447019-dbd85bfd-7160-43cd-b225-e8ccf7e4882b.gif" width="550" height="400"/>
+
 
 ### **커뮤니티페이지(실종찾기)**
 
@@ -107,7 +108,7 @@
 ```
 
 <br>
-![응급처치](https://user-images.githubusercontent.com/97574675/194447191-e683df76-b6b4-4c83-9047-8f4f38b2a3ba.gif)
+<img src="https://user-images.githubusercontent.com/97574675/194447191-e683df76-b6b4-4c83-9047-8f4f38b2a3ba.gif" width="550" height="400"/>
 
 ### **주변시설**
 
@@ -122,7 +123,8 @@
 ```
 
 <br>
-![마이페이지](https://user-images.githubusercontent.com/97574675/194447244-3ea0aa73-2335-4f29-b5ea-dfe96697f4c0.gif)
+<img src="https://user-images.githubusercontent.com/97574675/194447244-3ea0aa73-2335-4f29-b5ea-dfe96697f4c0.gif" width="550" height="400"/>
+
 
 ## 🐶🐱 산출물
 
